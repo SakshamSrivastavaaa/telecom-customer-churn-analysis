@@ -178,3 +178,13 @@ Aspiring Data Analyst passionate about transforming data into meaningful insight
 ---
 
 ⭐ *If you found this project interesting, feel free to explore the dashboard, notebook, and SQL analysis included in this repository.*
+
+## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/Executive_Overview.png)
+
+### Customer Churn Analysis
+
+![Customer Churn Analysis](screenshots/Customer_Churn_Analysis.png)
